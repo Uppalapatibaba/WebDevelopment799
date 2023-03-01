@@ -1,0 +1,25 @@
+/* Last Rules and Specificity (*) Unversal Selector */
+.special
+{
+    color: green;
+}
+p
+{
+    color: red;
+}
+p
+{
+    color: blue;
+}
+#heading
+{
+    color: red;
+}
+.heading
+{
+    color: green;
+}
+*
+{
+    color: brown;
+}

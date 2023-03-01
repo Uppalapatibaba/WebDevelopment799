@@ -1,0 +1,22 @@
+/* DIV AND SPAN - USED FOR GROUPING PROPOSE */
+/* div - used to group multiple elements */
+/* span - used to group inline content */
+.red
+{
+    color: red;
+    background: black;
+}
+.green
+{
+    color: green;
+    background: yellow;
+}
+span
+{
+    text-transform: uppercase;
+}
+.text
+{
+    background: white;
+    color: blue;
+}

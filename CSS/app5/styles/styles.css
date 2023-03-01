@@ -1,0 +1,14 @@
+/* CSS rule */
+/* selector */
+h1
+/* Declaration block */
+{
+    /* Property: value */
+    color: green;
+    font-size: 25px;
+}
+h2
+{
+    color: red;
+    font-size: 50pxpx;
+}

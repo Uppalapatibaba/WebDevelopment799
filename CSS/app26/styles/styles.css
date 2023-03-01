@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran&family=Climate+Crisis&family=Grand+Hotel&family=Source+Code+Pro:ital,wght@1,300&display=swap');
+h1
+{
+    font-family: 'Climate Crisis', cursive;
+}
+p
+{
+    font-family: 'Source Code Pro', monospace;
+}
